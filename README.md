@@ -1,0 +1,1 @@
+# This is a simple Chatbot project using Python and chatGPT API
